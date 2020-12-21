@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:OJoachim/app-watermark-aj.git",
-  "author": "Aleksandra Joachimiak <joachim07@poczta.onet.pl>",
   "license": "MIT",
   "dependencies": {
     "inquirer": "6.5.0",
